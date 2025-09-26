@@ -1,0 +1,1 @@
+This project focuses on analyzing employee attrition to understand the factors that influence why employees leaves an organization. The goal is to provide HR and management teams with insights that can help improve retention strategies,workforce planning and overall employee satisfaction.  
